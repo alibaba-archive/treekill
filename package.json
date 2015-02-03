@@ -1,6 +1,6 @@
 {
   "name": "treekill",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "treekill process and it's all children and child offspring children.",
   "main": "index.js",
   "scripts": {
